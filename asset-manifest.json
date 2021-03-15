@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nimble-test-task/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nimble-test-task/static/js/main.fa45ce67.chunk.js",
+    "main.js.map": "/nimble-test-task/static/js/main.fa45ce67.chunk.js.map",
+    "runtime-main.js": "/nimble-test-task/static/js/runtime-main.5ca35cdb.js",
+    "runtime-main.js.map": "/nimble-test-task/static/js/runtime-main.5ca35cdb.js.map",
+    "static/js/2.ef1724f3.chunk.js": "/nimble-test-task/static/js/2.ef1724f3.chunk.js",
+    "static/js/2.ef1724f3.chunk.js.map": "/nimble-test-task/static/js/2.ef1724f3.chunk.js.map",
+    "static/js/3.0f736798.chunk.js": "/nimble-test-task/static/js/3.0f736798.chunk.js",
+    "static/js/3.0f736798.chunk.js.map": "/nimble-test-task/static/js/3.0f736798.chunk.js.map",
+    "index.html": "/nimble-test-task/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/nimble-test-task/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ef1724f3.chunk.js.LICENSE.txt": "/nimble-test-task/static/js/2.ef1724f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ca35cdb.js",
+    "static/js/2.ef1724f3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fa45ce67.chunk.js"
+  ]
+}
