@@ -1,9 +1,14 @@
-import style from "./Header.module.css"
+import styled from "styled-components";
+
+const HeaderContainer = styled.header`
+  font-size: xxx-large;
+  font-family: "Arial Black", serif ;
+`;
 
 const Header = () => {
-    return <header className={style.header}>
+    return <HeaderContainer>
         tracker
-    </header>
+    </HeaderContainer>
 }
 
 export default Header;
